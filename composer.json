@@ -1,0 +1,8 @@
+{
+    "name": "raghav/test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "monolog/monlog": "1.0.*"
+    }
+}
